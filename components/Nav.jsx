@@ -6,7 +6,6 @@ const links = [
   { path: '/', name: 'home' },
   { path: '/projects', name: 'my projects' },
   { path: '/contact', name: 'contact' },
-  { path: '/bookcall', name: 'book a call' },
 ];
 
 const Nav = ({ containerStyles, linkStyles, underlineStyles }) => {
